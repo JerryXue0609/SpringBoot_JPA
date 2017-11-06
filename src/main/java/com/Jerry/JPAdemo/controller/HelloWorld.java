@@ -11,6 +11,6 @@ public class HelloWorld {
 
     @RequestMapping(value = "/hello")
     public String hello(){
-        return "hello world";
+        return "hello world aaa";
     }
 }
